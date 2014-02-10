@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WafflePool stats</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="EnterAddressLabel">Please enter your bitcoin address:</string>
+    <string name="EnterAddressMore">Enter your bitcoin receiving address, not the private key to send out your balance. And do not include worker name as the API doesn\'t support it YET. API is subject to change and breaking application at any time without prior notice.</string>
+    <string name="GoButton">Check</string>
+    <string name="AddressHere">Bitcoin address</string>
+    <string name="BtnSite">Enter site</string>
+    <string name="title_activity_stats">Wafflepool miner stats</string>
+    <string name="labelMinerAddress">"Miner address: "</string>
+    <string name="labelBitSent">""Bitcoins paid: "</string>
+    <string name="labelBitCOnverted">"Bitcoins converted: "</string>
+    <string name="labelBitUnconverted">"Bitcoins unconverted: "</string>
+    <string name="checkWarn">"Warn when lower than "</string>
+    <string name="hashHint">KHash/s</string>
+    <string name="labelLastChecked">"Last checked: "</string>
+    <string name="chkNotification">Enable ongoing notification</string>
+    <string name="StrQR">QR</string>
+    <string name="menuRefresh">Refresh</string>
+
+</resources>
